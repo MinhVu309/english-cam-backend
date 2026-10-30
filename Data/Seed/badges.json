@@ -1,0 +1,84 @@
+{
+  "badges": [
+    {
+      "id": "first_round",
+      "name": "Bé tập chơi",
+      "description": "Hoàn thành 1 ván chơi",
+      "emoji": "🎮",
+      "metric": "rounds",
+      "threshold": 1
+    },
+    {
+      "id": "stars_10",
+      "name": "Sao nhỏ",
+      "description": "Gom được 10 sao",
+      "emoji": "⭐",
+      "metric": "stars",
+      "threshold": 10
+    },
+    {
+      "id": "stars_50",
+      "name": "Sao sáng",
+      "description": "Gom được 50 sao",
+      "emoji": "🌟",
+      "metric": "stars",
+      "threshold": 50
+    },
+    {
+      "id": "stars_100",
+      "name": "Siêu sao",
+      "description": "Gom được 100 sao",
+      "emoji": "🏆",
+      "metric": "stars",
+      "threshold": 100
+    },
+    {
+      "id": "perfect",
+      "name": "Hoàn hảo",
+      "description": "Đúng hết ngay lần đầu trong một ván",
+      "emoji": "🎯",
+      "metric": "perfect",
+      "threshold": 1
+    },
+    {
+      "id": "finder_1",
+      "name": "Thám tử nhí",
+      "description": "Tìm được 1 đồ vật thật",
+      "emoji": "🔍",
+      "metric": "found",
+      "threshold": 1
+    },
+    {
+      "id": "finder_5",
+      "name": "Thợ săn đồ vật",
+      "description": "Tìm được 5 đồ vật thật",
+      "emoji": "🕵️",
+      "metric": "found",
+      "threshold": 5
+    },
+    {
+      "id": "learner_10",
+      "name": "Chăm học",
+      "description": "Đánh dấu đã học 10 từ",
+      "emoji": "📚",
+      "metric": "learned",
+      "threshold": 10
+    },
+    {
+      "id": "streak_3",
+      "name": "Chăm chỉ",
+      "description": "Học 3 ngày liên tiếp",
+      "emoji": "🔥",
+      "metric": "streak",
+      "threshold": 3
+    },
+    {
+      "id": "streak_7",
+      "name": "Cầu vồng",
+      "description": "Học 7 ngày liên tiếp",
+      "emoji": "🌈",
+      "metric": "streak",
+      "threshold": 7
+    }
+  ]
+}

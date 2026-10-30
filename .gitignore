@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+wwwroot/media/
+.vs/
+.idea/
+.DS_Store
